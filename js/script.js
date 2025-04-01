@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Configuration
     const config = {
-        imageCount: 27,
+        imageCount: 49,
         videoCount: 8,
         imageExtensions: ['.jpg', '.jpeg', '.png', '.webp']
     };
